@@ -1,0 +1,58 @@
+body {
+  background: url(../Imagenes/light-green-background-with-small-and-big-stars-blur-decorative-design-in-simple-style-with-stars-pattern-for-websites-landing-pages.jpg) no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.contenedor {
+  width: 100%;
+  /* height: 390px; */
+  display: flex;
+  justify-content: center;
+  /* margin-top: 35px; */
+  
+
+}
+
+.img-1 {
+  margin-right: 10px;
+  width: 250px;
+
+}
+
+.img-2 {
+  margin-right: 10px;
+  width: 350px;
+
+}
+
+.img-3 {
+  margin-right: 10px;
+  width: 180px;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  color: aliceblue;
+}
+
+.subContenedor {
+  width: 25%;
+  display: block;
+  justify-content: center;
+  margin-top: 35px;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
